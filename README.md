@@ -21,6 +21,9 @@ Most of projects in 91springboard are Javascript based and you'll need following
 Depending upon your operating system (Windows, Linux, or MacOS) and bit version (32 bit or 64 bit), install the following tools:
 
  1. [Git](https://git-scm.com/): Git is a free and open source distributed version control system. Git is also used by npm and bower package managers to install project's development and code dependencies.
+-->  https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f
+ 
+--> https://github.com/joshnh/Git-Commands
 
  1. [NVM](https://github.com/creationix/nvm): Simple bash script to manage multiple active node.js versions.
 
