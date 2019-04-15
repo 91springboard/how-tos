@@ -20,18 +20,23 @@ Most of projects in 91springboard are Javascript based and you'll need following
 
 Depending upon your operating system (Windows, Linux, or MacOS) and bit version (32 bit or 64 bit), install the following tools:
 
- 1. [Git](https://git-scm.com/): Git is a free and open source distributed version control system. Git is also used by npm and bower package managers to install project's development and code dependencies.
+ 1. [Git](https://git-scm.com/): Git is a free and open source distributed version control system. Git is also used by npm and bower package managers to install project's development and code dependencies.Refer to the links below to get idea about git(theory + commands).
+ 
 -->  https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f
  
 --> https://github.com/joshnh/Git-Commands
 
- 1. [NVM](https://github.com/creationix/nvm): Simple bash script to manage multiple active node.js versions.
+ 1. [NVM](https://github.com/creationix/nvm): Simple bash script to manage multiple active node.js versions. Node Version Manager (nvm) is a tool that allows you to manage multiple versions of Node.js on the same machine. Each version runs in its own isolated environment, so you can safely switch versions without affecting the whole system. Refer the link below for NVM Youtube tutorial .
 
- 1. [Node](https://nodejs.org/en/): Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node also contains **npm** package manager which is used to download project dependencies. Use **nvm** to install a particular node version.
+ 1. [Node](https://nodejs.org/en/): Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node also contains **npm** package manager which is used to download project dependencies. Use **nvm** to install a particular node version.Refer to the link of youtube tutorial given below:
+ 
+ https://www.youtube.com/watch?v=uVwtVBpw7RQ
 
  1. [Bower](https://bower.io/): Bower is a package manager to download and manage code dependencies.
 
-    Execute `bower -v`. If it shows a version it means bower is already installed. If not, execute `npm install -g bower` to install bower globally.
+    Execute `bower -v`. If it shows a version it means bower is already installed. If not, execute `npm install -g bower` to install bower globally.Check out the link below:
+    
+    https://www.youtube.com/watch?v=eXv_KG9SAzw
 
     Bower is installed using NPM (NPM has already been installed along with Node in the above step).
 
@@ -39,7 +44,7 @@ Depending upon your operating system (Windows, Linux, or MacOS) and bit version 
 
      Execute `npm install -g jsdoc` to install JSDoc globally because JSDoc will be used in many projects to generate HTML version of code documentation.
 
- 1. BitBucket's SourceTree: SourceTree is a GUI app to simplify your interactions with Git and Mercurial repositories. You do not need to write commands in the terminal.
+ 1. BitBucket's SourceTree: SourceTree is a GUI app to simplify your interactions with Git and Mercurial repositories. You do not need to write commands in the terminal. A free Mercurial and Git Client for Windows and Mac platforms. It provides a graphical interface for repositories, between users and Git, in which simplifies its use for beginners, who haven’t mastered Git, and experts, who can be more productive focusing solely on the code.
 
        - MacOS: [Install SourceTree v2.1](https://downloads.atlassian.com/software/sourcetree/SourceTree_2.1.dmg). Latest version have login issues.
        - Windows: [Install SourceTree latest version](https://www.sourcetreeapp.com/)
